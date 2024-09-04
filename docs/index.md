@@ -13,26 +13,6 @@ students:
   - "Shivansh Jaiswal"
   - "Harshit Karnani"
 ---
-\title{Innovate: OverTime}
-
-\logo{public/snt.jpg}
-\uni{
-    \centering
-    \textbf{Takneek: Hall 2}\\
-    \textsmaller{Documentation}
-}
-
-\ttitle{Innovate: OverTime} %title of the file
-\subject{PClub PS} % Subject name
-
-\professor{Pratyush Singh \\ Arnav Gupta \\ Abhimanyu Solanki} % information related to the professor
-
-\students{Daksh M Jain\\
-          Shivansh Jaiswal \\ Harshit Karnani} % information related to the students
-
-\buildmargins % display margins
-\buildcover % create the front cover of the document
-\toc
 
 # Introduction
 This project aims to develop a decentralized blockchain-based platform for automating task allocation. The platform leverages Ethereum, a decentralized, open-source blockchain that supports smart contracts—self-executing contracts with publicly available code. Ethereum enables trustless transactions and decentralized applications (dApps) by ensuring that all operations are transparently recorded on the blockchain.
