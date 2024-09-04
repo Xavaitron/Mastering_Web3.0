@@ -31,12 +31,15 @@ This project uses Next.js for building a modern, server-side rendered frontend. 
 
 To start the development server, first start the back-end then start the front-end, use one of the following commands:
 
+## Run Backend
 
 ```cd ./backend```
 
 ```npm i ```
 
 ```node ./index.js```
+
+## Run Frontend
 
 ```cd ..```
 
@@ -50,6 +53,11 @@ To start the development server, first start the back-end then start the front-e
 Once the server is running, open [http://localhost:3000](http://localhost:3000/) in your browser to view your application.
 
 ## Deployment
+
+.env file has been kept in the repo intentionally change the private key accordingly if the it shows insufficient balance error 
+
+make sure the port for backend is 3001 and frontend is running on 3000
+
 ```npx hardhat run --network sepolia scripts/deploy.js```
 
 update the contract address in env file and update the ABI
