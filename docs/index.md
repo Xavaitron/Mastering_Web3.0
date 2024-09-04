@@ -4,11 +4,11 @@ title: "Innovate: OverTime"
 logo: "/assets/images/snt.jpg"
 uni: "Takneek: Hall 2"
 subject: "PClub PS"
-professors:
+Y23s:
   - "Pratyush Singh"
   - "Arnav Gupta"
   - "Abhimanyu Solanki"
-students:
+Y24s:
   - "Daksh M Jain"
   - "Shivansh Jaiswal"
   - "Harshit Karnani"
