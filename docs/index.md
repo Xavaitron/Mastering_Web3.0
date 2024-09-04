@@ -1,18 +1,3 @@
----
-layout: post
-title: "Innovate: OverTime"
-logo: "/assets/images/snt.jpg"
-uni: "Takneek: Hall 2"
-subject: "PClub PS"
-Y23s:
-  - "Pratyush Singh"
-  - "Arnav Gupta"
-  - "Abhimanyu Solanki"
-Y24s:
-  - "Daksh M Jain"
-  - "Shivansh Jaiswal"
-  - "Harshit Karnani"
----
 
 # Introduction
 This project aims to develop a decentralized blockchain-based platform for automating task allocation. The platform leverages Ethereum, a decentralized, open-source blockchain that supports smart contracts—self-executing contracts with publicly available code. Ethereum enables trustless transactions and decentralized applications (dApps) by ensuring that all operations are transparently recorded on the blockchain.
